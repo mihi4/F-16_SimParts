@@ -1,0 +1,6 @@
+.vscode/
+*.MY
+*-backups/
+*auto*save*
+*fp-info-cache*
+*pcb-bak
