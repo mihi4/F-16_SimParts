@@ -9,6 +9,3 @@ Parts I designed to build and use in my simulator
 
 [<img src="pics/armrest.png" width=100 />](armrest)  
 [armrest](armrest)
-
-[<img src="pics/cruholder.png" width=100 />](cruholder)  
-[cruholder](cruholder)
