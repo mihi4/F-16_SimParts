@@ -18,3 +18,8 @@ Parts I designed to build and use in my simulator
 
 [<img src="pics/smallfloodlight.png" width=100 />](smallfloodlight)  
 [smallfloodlight](smallfloodlight)
+
+[<img src="pics/safetyLever.png" width=100 />](ACES-II)  
+[<img src="pics/manualrelease.png" width=100 />](ACES-II)  
+[ACES-II parts](ACES-II)
+
