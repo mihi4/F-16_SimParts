@@ -23,5 +23,5 @@ Parts I designed to build and use in my simulator
 [<img src="pics/manualrelease.png" width=100 />](ACES-II)  
 [ACES-II parts](ACES-II)
 
-[<img src="pics/altGearHandle.png" width=100 />](altGearhandle)  
+[<img src="pics/altGearHandle.png" width=100 />](altGearHandle)  
 [altGearHandle](altGearHandle)
